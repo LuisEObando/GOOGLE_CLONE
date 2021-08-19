@@ -1,4 +1,4 @@
-# Clone de Google 
+# Clon de Google 
 
 > Proyecto realizado para una tarde de repaso de HTML y CSS
 
